@@ -9,8 +9,11 @@
 
 [MicrosoftAzureDocs]
 
+[nettools]
+
 <!-- Local -->
 [AzurePowerShelModules]: documentation/azure-powershell-modules.md
+[nettools]: nettools
 
 
 <!-- External -->
