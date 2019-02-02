@@ -1,11 +1,11 @@
 # azure
-[Mooncake CDN Team]
+[CDN] [Mooncake CDN Team]
 
-[PowerShell Team]
+[Powershell][PowerShell Team]
 
-[Azure Samples]
+[AzureSamples][Azure Samples]
 
-[DevOps Open Source Solution for Azure China]
+[DevOps for Azure China][DevOps Open Source Solution for Azure China]
 
 [MicrosoftAzureDocs]
 
