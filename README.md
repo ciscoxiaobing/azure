@@ -13,7 +13,7 @@
 
 <!-- Local -->
 [AzurePowerShelModules]: documentation/azure-powershell-modules.md
-[nettools]: nettools
+[nettools]: nettools/blob/master/README.md
 
 
 <!-- External -->
