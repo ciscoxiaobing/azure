@@ -1,5 +1,5 @@
 # azure
-[CDN] [Mooncake CDN Team]
+[CDN][Mooncake CDN Team]
 
 [Powershell][PowerShell Team]
 
